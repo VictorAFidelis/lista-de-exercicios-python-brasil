@@ -5,7 +5,5 @@ https://wiki.python.org.br/EstruturaSequencial
 Escreva um programa que mostre a mensagem "Olá Mundo"
 
     >>> ola_mundo()
-    Olá Mundo
-
-"""
+    Olá Mundo"""
 print('Olá Mundo')
